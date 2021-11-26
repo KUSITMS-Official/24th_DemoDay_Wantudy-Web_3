@@ -1,0 +1,609 @@
+.myMorePageContainer{
+    width: 100%;
+    height: auto;
+    background-color: #F8F9FC;
+    padding-left: 360px;
+    padding-right: 360px;
+    padding-top: 100px;
+    padding-bottom: 135px;
+    font-family: "Noto Sans KR";
+    color: #22272E;
+}
+
+.schedulePageContainer{
+    width: 100%;
+    height: auto;
+    background-color: #F8F9FC;
+    padding-left: 360px;
+    padding-right: 360px;
+    padding-top: 100px;
+    padding-bottom: 235px;
+    font-family: "Noto Sans KR";
+    color: #22272E;
+}
+
+.myMorePageBanner{
+    width: 1200px;
+    height: 201px;
+    background: #497EF1;
+    border-radius: 46px 46px 0px 0px;
+}
+
+.appliedStudyImg{
+    position: absolute;
+    margin-left: 1067px;
+}
+
+.likedStudyImg{
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: 210px;
+}
+
+.openedStudyImg{
+    position: absolute;
+    margin-left: 1176px;
+    margin-top: 90px;
+}
+
+.ongoingStudyImg{
+    position: absolute;
+    margin-left: 1176px;
+    margin-top: 130px;
+}
+
+.myMorePageTitleText{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 41px;
+    margin-left: 73px;
+    padding-top: 57px;
+    color: #FFFFFF;
+}
+
+.appliedList{
+    width: 1200px;
+    height: 224px;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+.likedListContainer{
+    padding-top: 44px;
+    padding-bottom: 28px;
+    width: 1200px;
+    height: auto;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+.openedListContainer{
+    width: 1200px;
+    height: auto;
+    background-color: #FFFFFF;
+    padding-top: 43px;
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 13px;
+    padding-bottom: 42.97px;
+}
+
+.startStudyBtn{
+    display: inline-block;
+    width: 150px;
+    height: 43.03px;
+    line-height: 43.03px;
+    background: #EEEFF2;
+    border-radius: 40.5px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.openedStudyTitle{
+    margin-left: 73px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+    color: #22272E;
+    float: left;
+}
+
+.receivedAppContainer{
+    display: inline-block;
+    width: 1055px;
+    height: auto;
+    background: #F8F9FC;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.03);
+    padding-bottom: 26px;
+    margin-bottom: 21px;
+}
+
+.receivedAppUserName{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    float: left;
+    margin-top: 34px;
+    margin-left: 16px;
+}
+
+.participantBox{
+    float: left;
+}
+
+.fireEmoji{
+    float: left;
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 33px;
+    margin-left: 10px;
+}
+
+.receivedAppUserTemp{
+    margin-left:5px;
+    margin-top: 33px;
+    float: left;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #497EF1;
+
+}
+
+.receivedAppViewDetail{
+    float: right;
+    width: 98.73px;
+    height: 40px;
+    background: #497EF1;
+    border-radius: 40.5px;
+    line-height: 40px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #FFFFFF;
+    margin-top: 26px;
+    margin-right: 42.27px;
+}
+
+.receivedAppRegDate{
+    float: right;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #88898E;
+    margin-right: 33px;
+    margin-top: 35px;
+}
+
+.likedList{
+    text-align: left;
+    display: inline-block;
+    width: 1055px;
+    height: 155px;
+    background: #F8F9FC;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.03);
+    margin-bottom: 23px;
+}
+
+.bookMarkVector{
+    margin-left: 69.5px;
+    margin-top: 60.5px;
+    float: left;
+}
+
+.likedStudyName{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    margin-left: 53px;
+    color: #22272E;
+    float: left;
+    margin-top: 60px;
+}
+
+.likedStudyStatus{
+    float: right;
+    margin-top: 37px;
+    margin-right: 82.64px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+    text-align: right;
+}
+
+.appliedStudyName{
+    padding-left: 39px;
+    padding-right: 50px;
+    width: 1014px;
+    height: 71px;
+    background: #F8F9FC;
+    border-radius: 20px;
+    text-align: left;
+    line-height: 71px;
+    margin-top: 44px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    display: inline-block;
+}
+
+
+.applyStatus{
+    float: right;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    color: #497EF1;
+}
+
+.appliedStudyBtn{
+    width: 178px;
+    height: 49.94px;
+    background: #EEEFF2;
+    border-radius: 40.5px;
+    float: left;
+    text-align: center;
+    line-height: 49.94px;
+    margin-top: 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.appliedStudyBtn2{
+    width: 178px;
+    height: 49.94px;
+    background: #EEEFF2;
+    border-radius: 40.5px;
+    float: right;
+    text-align: center;
+    line-height: 49.94px;
+    margin-top: 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.appliedStudyBtnContainer{
+    width: 1055px;
+    height: 43.49px;
+    display: inline-block;
+}
+
+
+.ongoingStudyListContainer{
+    width:1200px;
+    padding-top: 44px;
+    text-align: center;
+    background: #FFFFFF;
+}
+
+.ongoingStudyName{
+    display: inline-block;
+    width: 1054px;
+    height: 71px;
+    line-height: 71px;
+    background: #F8F9FC;
+    border-radius: 20px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 42px;
+}
+
+.ongoingStudyDetailTitle{
+    width: 1200px;
+    height: 100px;
+    background: #497EF1;
+    border-radius: 35px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 100px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.receivedAppViewTitle{
+    width: 1200px;
+    height: 100px;
+    background: #497EF1;
+    border-radius: 35px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 100px;
+    color: #FFFFFF;
+    padding-left: 73px;
+}
+
+.participantsPics{
+    padding-top: 26.23px;
+    margin-top: 13px;
+    width: 1200px;
+    height: 120px;
+    background: #FFFFFF;
+    text-align: center;
+}
+
+.participantsProfileImg{
+    margin-left: 23px;
+    margin-right: 23px;
+    width: 50.77px;
+    height: 50.77px;
+    border-radius: 70%;
+    float: left;
+}
+
+.receivedUserProfileImg{
+    width: 36px;
+    height: 36px;
+    border-radius: 70%;
+    float: left;
+    margin-left: 42px;
+    margin-top: 28px;
+}
+
+.participantsPicsContainer{
+    display: inline-block;
+}
+
+.managerLabelImg{
+    margin-left: 10px;
+    position: absolute;
+}
+
+.ongoingDetailContainers{
+    margin-top: 13px;
+    text-align: center;
+    width: 1200px;
+    height: auto;
+    background: #FFFFFF;
+    padding-bottom: 43px;
+}
+
+.scheduleBox{
+    padding-top: 57px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #88898E;
+    display: inline-block;
+    width: 1055px;
+    height: 235px;
+    background: #F8F9FC;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.03);
+}
+
+.scheduleBox2{
+    text-align: left;
+    padding-left: 42px;
+    padding-right: 41px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 97px;
+    display: inline-block;
+    width: 1055px;
+    height: 97px;
+    background: #F8F9FC;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.03);
+}
+
+.ongoingSubTitle{
+    padding-right:950px;
+    padding-top:40px;
+    margin-top: 43px;
+    margin-left: 73px;
+    margin-bottom: 21px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.scheduleAdjustBtn{
+    display: inline-block;
+    width: 130px;
+    height: 40.27px;
+    border: 1px solid #497EF1;
+    box-sizing: border-box;
+    border-radius: 40.5px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 40.27px;
+    text-align: center;
+
+    color: #497EF1;
+    margin-top: 25px;
+}
+
+.checkScheduleBtn{
+    margin-top: 29px;
+    font-size: 15px;
+    text-align: center;
+    float: right;
+    width: 105px;
+    height: 40.27px;
+    line-height: 40.27px;
+    background: #EEEFF2;
+    border-radius: 40.5px;
+}
+
+.subjectTodoBox1{
+
+    width: 1055px;
+    height: 92px;
+    background: #F8F9FC;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.03);
+    display: inline-block;
+}
+
+.inputBox{
+    width: 1055px;
+    height: 182px;
+    background: #F8F9FC;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.03);
+    display: inline-block;
+}
+
+.openedStudyStartedMsg{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    color: #497EF1;
+}
+
+.recivedAppRegisteredDate{
+    margin-right: 73px;
+    float: right;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.appViewDetailContainer{
+    padding-left: 73px;
+    width: 1200px;
+    height: 113px;
+    line-height: 113px;
+    background: #FFFFFF;
+    margin-top: 13px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.appViewdetailContainerTitle{
+    color: #88898E;
+    float: left;
+}
+
+.appViewdetailContainerContent{
+    float: left;
+    margin-left: 53px;
+}
+
+.raChatBtn{
+    margin-top: 32px;
+}
+
+.raDeclineBtn{
+    margin-top: 32px;
+    margin-left: 25px;
+}
+
+.raAcceptBtn{
+    margin-top: 32px;
+    float:right;
+}
+
+.scheduleContainer{
+    width: 1200px;
+    height: 1388px;
+    background: #FFFFFF;
+    margin-top: 13px;
+    padding-top: 60px;
+}
+
+.dayOfWeek{
+    width: 143px;
+    text-align: center;
+    float:left;
+    font-weight: 600;
+    font-size: 18px;
+    color: #88898E;
+}
+
+.dayOfWeekContainer{
+    margin-left: 125px;
+}
+
+.timeContainer{
+    margin-top: 15px;
+    float: left;
+    margin-left: 72px;
+    width: 53px;
+    height: 1268px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 10px;
+    color: #88898E;
+}
+
+.timeNumber{
+    height: 61px;
+    padding-bottom: 46px;
+}
+
+.tablesOfDayOfWeek{
+    margin-top: 22.49px;
+    float: left;
+    width: 143px;
+    height: 1226px;
+}
+
+.timeTable{
+    width: 143px;
+    height: 61px;
+    background: #F8F9FC;
+    border: 1px solid #CACACA;
+}
+
+.timeTableColored{
+    width: 143px;
+    height: 61px;
+    background: rgba(53, 174, 174, 0.3);
+    border: 1px solid #CACACA;
+}
+
+.commonTimeTableColored{
+    width: 143px;
+    height: 61px;
+    background: rgba(73, 126, 241, 0.3);
+    border: 1px solid #CACACA;
+}
+
+.scheduleBtns{
+    width: 106.43px;
+    height: 57px;
+    line-height: 57px;
+    background: #EEEFF2;
+    border-radius: 40.5px;
+    float: left;
+    margin-top: 41px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    margin-right: 25px;
+}
+
+.viewCommonScheduleBtn{
+    width: 210.43px;
+    height: 57px;
+    line-height: 57px;
+    background: #497EF1;
+    border-radius: 40.5px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    float: right;
+    margin-top: 41px;
+}

@@ -1,0 +1,331 @@
+.mypageContainer{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    font-family: "Noto Sans KR";
+    background: #F8F9FC;
+    padding-top: 100px;
+    padding-bottom: 125px;
+}
+
+.mypageBanner{
+    display: inline-block;
+    width: 1200px;
+    height: 201px;
+    background: #497EF1;
+    border-radius: 46px 46px 0px 0px;
+}
+
+.mypageTitleText{
+    text-align: left;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 41px;
+    margin-left: 73px;
+    padding-top: 57px;
+    color: #FFFFFF;
+}
+
+.mypageImg{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 90px;
+    clip: rect(10px, 296px, 291px, 0px);
+}
+
+.temperatureContainer{
+    margin-top: 13px;
+    display: inline-block;
+    width: 1200px;
+    height: 195px;
+    background: #FFFFFF;
+    padding-top: 43px;
+    padding-left: 73px;
+    text-align: left;
+}
+
+.myTempTitle{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+    color: #22272E;
+    float: left;
+}
+
+.myTempStatus{
+    margin-top: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #22272E;
+}
+
+.participatedStudyContainer{
+    background: #FFFFFF;
+    width: 1200px;
+    height: 507px;
+    display: inline-block;
+    margin-top: 13px;
+    text-align: left;
+    padding-top: 45px;
+    padding-left: 73px;
+}
+
+.mypagePreview{
+    padding-top: 24px;
+    text-align: left;
+    padding-left: 26px;
+    width: 512px;
+    height: 135px;
+    background: #F8F9FC;
+    margin-top: 45px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: #22272E;
+    margin-right: 30px;
+}
+
+.mypagePreview5{
+    padding-top: 24px;
+    text-align: left;
+    padding-left: 26px;
+    width: 512px;
+    height: 135px;
+    background: #F8F9FC;
+    margin-top: 45px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: #22272E;
+}
+
+.previewOngoingStudyName{
+    text-align: left;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.previewAssignmentName{
+    text-align: left;
+    margin-top: 10px;
+}
+
+.previewAssignmentDeadline{
+    text-align: left;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 14px;
+    color: #88898E;
+}
+
+.mypagePreview2{
+    width: 446px;
+    height: 52px;
+    background: #F8F9FC;
+    border-radius: 18px;
+    margin-top: 45px;
+    text-align: center;
+    line-height: 52px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: #22272E;
+}
+
+.mypagePreview3{
+    position: absolute;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 27px;
+    width: 512px;
+    height: 141px;
+    background: #F8F9FC;
+    margin-top: 45px;
+    text-align: left;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: #22272E;
+}
+
+.mypagePreview4{
+    position: absolute;
+    margin-left: 542px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 27px;
+    width: 512px;
+    height: 141px;
+    background: #F8F9FC;
+    margin-top: 45px;
+    text-align: left;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: #22272E;
+}
+
+.likedPreviewContainer{
+    width: 1054px;
+    height: 210px;
+}
+
+.mypageBookmarkimg{
+    width: 13px;
+    height: 19px;
+    float:right
+}
+
+.mypagePreviewDeadline{
+    text-align: left;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.mypagelikedStudyName{
+    margin-top: 3px;
+    float:left;
+}
+
+.likedStudyIndividualContainer{
+    width: 452px;
+    height: 88px;
+}
+
+.applyBlockStatus{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    color: #497EF1;
+    margin-top: 25px;
+    width: 446px;
+    text-align: center;
+}
+
+.participatedBlock{
+    float: left;
+    margin-bottom: 45px;
+}
+
+.subjectBlock{
+    float: left;
+    margin-bottom: 45px;
+}
+
+.mypageMoreBtn{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #497EF1;
+    float: right;
+    margin-right: 73px;
+}
+
+.mypageMoreBtn2{
+    position: absolute;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #497EF1;
+    margin-left: 996px;
+}
+
+
+.likedStudyContainer{
+    text-align: left;
+    display: inline-block;
+    width: 1200px;
+    height: auto;
+    background: #FFFFFF;
+    margin-top: 13px;
+    padding-top: 45px;
+    padding-bottom: 30px;
+    padding-left: 73px;
+}
+
+.applyStatusContainer{
+    margin-top: 13px;
+    text-align: left;
+    display: inline-block;
+    width: 1200px;
+    height: auto;
+}
+
+.appliedBlock{
+    padding-top: 45px;
+    padding-left: 73px;
+    width: 592px;
+    height: 238px;
+    background: #FFFFFF;
+    float: left;
+}
+
+.openedBlock{
+    padding-top: 45px;
+    padding-left: 73px;
+    width: 592px;
+    height: 238px;
+    background: #FFFFFF;
+    float: left;
+    margin-left: 16px;
+}
+
+.appliedUserName{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    color: #22272E;
+    margin-top: 25px;
+    float: left;
+}
+
+.appliedUserDate{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 27px;
+    color: #88898E;
+    float: right;
+    margin-right: 79px;
+}
+
+.mypageBtnContainer{
+    margin-top: 56px;
+    display: inline-block;
+    width: 405px;
+    height: 57px;
+}
+
+.mypageFooterBtn{
+    float: left;
+    width: 166px;
+    height: 57px;
+    line-height: 57px;
+    background: #EEEFF2;
+    border-radius: 40.5px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    margin-right: 25px;
+}
+
+.previewReceivedUserProfileImg{
+    width: 25px;
+    height: 25px;
+    margin-top: 22px;
+    margin-right: 10px;
+    border-radius: 70%;
+    float: left;
+}
