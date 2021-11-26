@@ -16,3 +16,6 @@ React
 ## Frontend Member
 송재민 <a href="https://github.com/xongjaemin" target="_blank">@xongjaemin</a> <br/>
 황남주 <a href="https://github.com/NamNamju" target="_blank">@NamNamju</a>  <br/>
+
+## 시연 영상
+https://youtu.be/NF_OMyGxZzA
